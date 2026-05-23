@@ -1,0 +1,17 @@
+.env
+.env.*
+.env.local
+.claude/
+CLAUDE.md
+memory.md
+learnings.md
+DEPLOY.md
+deploy.md
+PROGRESS.md
+*.pem
+*.key
+credentials.json
+catboost_info/
+__pycache__/
+*.pyc
+.DS_Store
