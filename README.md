@@ -109,6 +109,13 @@ Percentile thresholds were computed on the training set only to prevent data lea
 └── README.md
 ```
 
+## Data
+
+The CSV data files are not included in this repo due to size (~77MB). To reproduce:
+
+1. Download `airbnb_top_cities.csv` from the original source and place it in the project root.
+2. Run the scripts below to generate the cleaned and per-city datasets.
+
 ## How to Run
 
 ```bash

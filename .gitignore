@@ -15,3 +15,5 @@ catboost_info/
 __pycache__/
 *.pyc
 .DS_Store
+*.csv
+data_by_city/
