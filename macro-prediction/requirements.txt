@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+pandas-datareader>=0.10
+yfinance>=0.2.40
+requests>=2.31
+python-dateutil>=2.8
+scikit-learn>=1.3
+statsmodels>=0.14
+shap>=0.43
+matplotlib>=3.7
+seaborn>=0.13
