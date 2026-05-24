@@ -3,8 +3,16 @@ __pycache__/
 .venv/
 venv/
 .env
+.env.*
 .ipynb_checkpoints/
 data/raw/*.csv
 data/processed/*.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+# Local-only working files — never push
+CLAUDE.md
+learnings.md
+short_term_memory.md
+long_term_memory.md
+.claude/
