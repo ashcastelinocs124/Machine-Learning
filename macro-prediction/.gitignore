@@ -6,6 +6,7 @@ venv/
 .env.*
 .ipynb_checkpoints/
 data/raw/*.csv
+!data/raw/ai_capex.csv
 data/processed/*.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
