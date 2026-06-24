@@ -1,0 +1,7 @@
+# Raw dataset downloaded via kagglehub (reproducible — see scripts)
+# Generated feature tables (reproducible by running build_features_*.py)
+*.csv
+
+# Python
+__pycache__/
+*.pyc
